@@ -1,0 +1,711 @@
+[{
+  "_id": {
+    "$oid": "604102da70800c2694ad952f"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Periodic",
+  "iconURL": "/icons/Motion_Periodic.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad953b"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Color_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad953d"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Stripe",
+  "iconURL": "/icons/Pattern_Stripe.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad953e"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Grid",
+  "iconURL": "/icons/Pattern_Grid.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad953f"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Radial",
+  "iconURL": "/icons/Pattern_Radial.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9540"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Dot",
+  "iconURL": "/icons/Pattern_Dot.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9541"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Pattern_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9543"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Straight line & Rectangle",
+  "iconURL": "/icons/Shape_Straight line _ Rectangle.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9544"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Curve",
+  "iconURL": "/icons/Shape_Curve.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9545"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Circle",
+  "iconURL": "/icons/Shape_Circle.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9546"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Polygon",
+  "iconURL": "/icons/Shape_Polygon.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9547"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Incompletion",
+  "iconURL": "/icons/Shape_Incompletion.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9548"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Scale",
+  "iconURL": "/icons/Shape_Scale.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9549"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Shape_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad954b"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Focus",
+  "iconURL": "/icons/Gaze_Focus.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad954c"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Saccade",
+  "iconURL": "/icons/Gaze_Saccade.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad954d"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Peripheral",
+  "iconURL": "/icons/Gaze_Peripheral.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad954f"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Periphery and center",
+  "iconURL": "/icons/Relation_Periphery and center.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9550"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Parallel",
+  "iconURL": "/icons/Relation_Parallel.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9551"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Perpendicular",
+  "iconURL": "/icons/Relation_Perpendicular.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9552"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Similar",
+  "iconURL": "/icons/Relation_Similar.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9553"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Identical",
+  "iconURL": "/icons/Relation_Identical.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9554"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Duality & Multiple explanation",
+  "iconURL": "/icons/Relation_Duality _ Multiple explanation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9555"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Relation_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9557"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Shadow",
+  "iconURL": "/icons/Lighting_Shadow.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9558"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Source",
+  "iconURL": "/icons/Lighting_Source.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9559"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Lighting_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad955b"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Blur",
+  "iconURL": "/icons/Filter_Blur.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad955c"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Mosaic",
+  "iconURL": "/icons/Filter_Mosaic.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad955d"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Noise",
+  "iconURL": "/icons/Filter_Noise.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad955e"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Filter_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9560"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Specific point of view",
+  "iconURL": "/icons/Perspective _ Anamorphosis_Specific point of view.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9561"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "2D and 3D",
+  "iconURL": "/icons/Perspective _ Anamorphosis_2D and 3D.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9563"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Round robin",
+  "iconURL": "/icons/Action_Round robin.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9564"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Appearing",
+  "iconURL": "/icons/Action_Appearing.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9565"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Disappearing",
+  "iconURL": "/icons/Action_Disappearing.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9566"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Reordering",
+  "iconURL": "/icons/Action_Reordering.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9567"
+  },
+  "subelements": [],
+  "level": 0,
+  "name": "Layers",
+  "iconURL": "/icons/Layers.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9568"
+  },
+  "subelements": [],
+  "level": 0,
+  "name": "Obstacle & Occluder",
+  "iconURL": "/icons/Obstacle _ Occluder.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9569"
+  },
+  "subelements": [],
+  "level": 0,
+  "name": "Text",
+  "iconURL": "/icons/Text.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad956a"
+  },
+  "subelements": [],
+  "level": 0,
+  "name": "Face",
+  "iconURL": "/icons/Face.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad956b"
+  },
+  "subelements": [],
+  "level": 0,
+  "name": "Mirror",
+  "iconURL": "/icons/Mirror.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad953c"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad953d"
+    },
+    {
+      "$oid": "604102da70800c2694ad953e"
+    },
+    {
+      "$oid": "604102da70800c2694ad953f"
+    },
+    {
+      "$oid": "604102da70800c2694ad9540"
+    },
+    {
+      "$oid": "604102da70800c2694ad9541"
+    }
+  ],
+  "level": 0,
+  "name": "Pattern",
+  "iconURL": "/icons/Pattern.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9542"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad9543"
+    },
+    {
+      "$oid": "604102da70800c2694ad9544"
+    },
+    {
+      "$oid": "604102da70800c2694ad9545"
+    },
+    {
+      "$oid": "604102da70800c2694ad9546"
+    },
+    {
+      "$oid": "604102da70800c2694ad9547"
+    },
+    {
+      "$oid": "604102da70800c2694ad9548"
+    },
+    {
+      "$oid": "604102da70800c2694ad9549"
+    }
+  ],
+  "level": 0,
+  "name": "Shape",
+  "iconURL": "/icons/Shape.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad954a"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad954b"
+    },
+    {
+      "$oid": "604102da70800c2694ad954c"
+    },
+    {
+      "$oid": "604102da70800c2694ad954d"
+    }
+  ],
+  "level": 0,
+  "name": "Gaze",
+  "iconURL": "/icons/Gaze.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad954e"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad954f"
+    },
+    {
+      "$oid": "604102da70800c2694ad9550"
+    },
+    {
+      "$oid": "604102da70800c2694ad9551"
+    },
+    {
+      "$oid": "604102da70800c2694ad9552"
+    },
+    {
+      "$oid": "604102da70800c2694ad9553"
+    },
+    {
+      "$oid": "604102da70800c2694ad9554"
+    },
+    {
+      "$oid": "604102da70800c2694ad9555"
+    }
+  ],
+  "level": 0,
+  "name": "Relation",
+  "iconURL": "/icons/Relation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9556"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad9557"
+    },
+    {
+      "$oid": "604102da70800c2694ad9558"
+    },
+    {
+      "$oid": "604102da70800c2694ad9559"
+    }
+  ],
+  "level": 0,
+  "name": "Lighting",
+  "iconURL": "/icons/Lighting.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad955a"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad955b"
+    },
+    {
+      "$oid": "604102da70800c2694ad955c"
+    },
+    {
+      "$oid": "604102da70800c2694ad955d"
+    },
+    {
+      "$oid": "604102da70800c2694ad955e"
+    }
+  ],
+  "level": 0,
+  "name": "Filter",
+  "iconURL": "/icons/Filter.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad955f"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad9560"
+    },
+    {
+      "$oid": "604102da70800c2694ad9561"
+    }
+  ],
+  "level": 0,
+  "name": "Perspective & Anamorphosis",
+  "iconURL": "/icons/Perspective _ Anamorphosis.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9562"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad9563"
+    },
+    {
+      "$oid": "604102da70800c2694ad9564"
+    },
+    {
+      "$oid": "604102da70800c2694ad9565"
+    },
+    {
+      "$oid": "604102da70800c2694ad9566"
+    }
+  ],
+  "level": 0,
+  "name": "Action",
+  "iconURL": "/icons/Action.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9530"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Linear",
+  "iconURL": "/icons/Motion_Linear.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9536"
+  },
+  "subelements": [],
+  "level": 2,
+  "name": "Brightness",
+  "iconURL": "/icons/Color_High contrast_Brightness.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad953a"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Chromatic transition",
+  "iconURL": "/icons/Color_Chromatic transition.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9532"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Flickering",
+  "iconURL": "/icons/Motion_Flickering.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9533"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Others",
+  "iconURL": "/icons/Motion_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9538"
+  },
+  "subelements": [],
+  "level": 2,
+  "name": "Others",
+  "iconURL": "/icons/Color_High contrast_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9539"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Gradient",
+  "iconURL": "/icons/Color_Gradient.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9537"
+  },
+  "subelements": [],
+  "level": 2,
+  "name": "Hue",
+  "iconURL": "/icons/Color_High contrast_Hue.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9535"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad9536"
+    },
+    {
+      "$oid": "604102da70800c2694ad9537"
+    },
+    {
+      "$oid": "604102da70800c2694ad9538"
+    }
+  ],
+  "level": 1,
+  "name": "High contrast",
+  "iconURL": "/icons/Color_High contrast.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9531"
+  },
+  "subelements": [],
+  "level": 1,
+  "name": "Rotation",
+  "iconURL": "/icons/Motion_Rotation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad9534"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad9535"
+    },
+    {
+      "$oid": "604102da70800c2694ad9539"
+    },
+    {
+      "$oid": "604102da70800c2694ad953a"
+    },
+    {
+      "$oid": "604102da70800c2694ad953b"
+    }
+  ],
+  "level": 0,
+  "name": "Color",
+  "iconURL": "/icons/Color.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102da70800c2694ad952e"
+  },
+  "subelements": [
+    {
+      "$oid": "604102da70800c2694ad952f"
+    },
+    {
+      "$oid": "604102da70800c2694ad9530"
+    },
+    {
+      "$oid": "604102da70800c2694ad9531"
+    },
+    {
+      "$oid": "604102da70800c2694ad9532"
+    },
+    {
+      "$oid": "604102da70800c2694ad9533"
+    }
+  ],
+  "level": 0,
+  "name": "Motion",
+  "iconURL": "/icons/Motion.PNG",
+  "__v": 0
+}]

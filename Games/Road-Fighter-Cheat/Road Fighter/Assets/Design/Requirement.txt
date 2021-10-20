@@ -1,0 +1,13 @@
+In this game:
+1. a game manager will control the flow of the game
+2. game manager will produce cubes, including target and intervene
+3. game manager will produce obstacles
+4. player can move up and down
+5. when player touch target cube, the score will increase.
+6. when player touch intervene cube, the score will decrease.
+	once the score is smaller than zero, player lose the game
+7. the type of cube could be more than which mentioned above.
+8. cube with "?" can change the color of player.
+9. player bump into the obstacle will decrease score with correponding demage
+10. the cubes can move straight or go up and down
+11. the cubes can have pattern

@@ -1,0 +1,478 @@
+[{
+  "_id": {
+    "$oid": "604102db70800c2694ad956e"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Translation",
+  "iconURL": "/icons/Motion_Variation_Translation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad957b"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Brightness",
+  "iconURL": "/icons/Color_Variation_Brightness.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad957c"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Hue",
+  "iconURL": "/icons/Color_Variation_Hue.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad957d"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Others",
+  "iconURL": "/icons/Color_Variation_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9580"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Shape",
+  "iconURL": "/icons/Geometry_Variation_Shape.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9581"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Straight line & Rectangle",
+  "iconURL": "/icons/Geometry_Variation_Straight line _ Rectangle.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9582"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Angle",
+  "iconURL": "/icons/Geometry_Variation_Angle.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9583"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Size",
+  "iconURL": "/icons/Geometry_Variation_Size.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9584"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Embossing & Engraving & Depth",
+  "iconURL": "/icons/Geometry_Variation_Embossing _ Engraving _ Depth.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9585"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Completeness",
+  "iconURL": "/icons/Geometry_Variation_Completeness.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9586"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Impossible object",
+  "iconURL": "/icons/Geometry_Variation_Impossible object.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9588"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Shape",
+  "iconURL": "/icons/Geometry_Appearing_Shape.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9589"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Straight line & Rectangle",
+  "iconURL": "/icons/Geometry_Appearing_Straight line _ Rectangle.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad958a"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Embossing & Engraving & Depth",
+  "iconURL": "/icons/Geometry_Appearing_Embossing _ Engraving _ Depth.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad958b"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Dot",
+  "iconURL": "/icons/Geometry_Appearing_Dot.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad958d"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Shape",
+  "iconURL": "/icons/Geometry_Disappearing_Shape.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad958e"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Straight line & Rectangle",
+  "iconURL": "/icons/Geometry_Disappearing_Straight line _ Rectangle.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad958f"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Dot",
+  "iconURL": "/icons/Geometry_Disappearing_Dot.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9590"
+  },
+  "subeffects": [],
+  "level": 0,
+  "name": "Quantity variation",
+  "iconURL": "/icons/Quantity variation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9591"
+  },
+  "subeffects": [],
+  "level": 0,
+  "name": "2D ↔ 3D",
+  "iconURL": "/icons/2D ↔ 3D.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9592"
+  },
+  "subeffects": [],
+  "level": 0,
+  "name": "Duality & Multiple explanation",
+  "iconURL": "/icons/Duality _ Multiple explanation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9593"
+  },
+  "subeffects": [],
+  "level": 0,
+  "name": "Horror",
+  "iconURL": "/icons/Horror.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9594"
+  },
+  "subeffects": [],
+  "level": 0,
+  "name": "Hiding",
+  "iconURL": "/icons/Hiding.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad957a"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad957b"
+    },
+    {
+      "$oid": "604102db70800c2694ad957c"
+    },
+    {
+      "$oid": "604102db70800c2694ad957d"
+    }
+  ],
+  "level": 1,
+  "name": "Variation",
+  "iconURL": "/icons/Color_Variation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad957f"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad9580"
+    },
+    {
+      "$oid": "604102db70800c2694ad9581"
+    },
+    {
+      "$oid": "604102db70800c2694ad9582"
+    },
+    {
+      "$oid": "604102db70800c2694ad9583"
+    },
+    {
+      "$oid": "604102db70800c2694ad9584"
+    },
+    {
+      "$oid": "604102db70800c2694ad9585"
+    },
+    {
+      "$oid": "604102db70800c2694ad9586"
+    }
+  ],
+  "level": 1,
+  "name": "Variation",
+  "iconURL": "/icons/Geometry_Variation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9587"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad9588"
+    },
+    {
+      "$oid": "604102db70800c2694ad9589"
+    },
+    {
+      "$oid": "604102db70800c2694ad958a"
+    },
+    {
+      "$oid": "604102db70800c2694ad958b"
+    }
+  ],
+  "level": 1,
+  "name": "Appearing",
+  "iconURL": "/icons/Geometry_Appearing.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad958c"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad958d"
+    },
+    {
+      "$oid": "604102db70800c2694ad958e"
+    },
+    {
+      "$oid": "604102db70800c2694ad958f"
+    }
+  ],
+  "level": 1,
+  "name": "Disappearing",
+  "iconURL": "/icons/Geometry_Disappearing.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9579"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad957a"
+    }
+  ],
+  "level": 0,
+  "name": "Color",
+  "iconURL": "/icons/Color.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad957e"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad957f"
+    },
+    {
+      "$oid": "604102db70800c2694ad9587"
+    },
+    {
+      "$oid": "604102db70800c2694ad958c"
+    }
+  ],
+  "level": 0,
+  "name": "Geometry",
+  "iconURL": "/icons/Geometry.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9570"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Continuity",
+  "iconURL": "/icons/Motion_Variation_Continuity.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9574"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Translation",
+  "iconURL": "/icons/Motion_Appearing_Translation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9577"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Grouping",
+  "iconURL": "/icons/Motion_Appearing_Grouping.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad956f"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Rotation",
+  "iconURL": "/icons/Motion_Variation_Rotation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9572"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Stop",
+  "iconURL": "/icons/Motion_Variation_Stop.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9575"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Rotation",
+  "iconURL": "/icons/Motion_Appearing_Rotation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9578"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Others",
+  "iconURL": "/icons/Motion_Appearing_Others.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9576"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Shake",
+  "iconURL": "/icons/Motion_Appearing_Shake.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9573"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad9574"
+    },
+    {
+      "$oid": "604102db70800c2694ad9575"
+    },
+    {
+      "$oid": "604102db70800c2694ad9576"
+    },
+    {
+      "$oid": "604102db70800c2694ad9577"
+    },
+    {
+      "$oid": "604102db70800c2694ad9578"
+    }
+  ],
+  "level": 1,
+  "name": "Appearing",
+  "iconURL": "/icons/Motion_Appearing.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad9571"
+  },
+  "subeffects": [],
+  "level": 2,
+  "name": "Synchrony",
+  "iconURL": "/icons/Motion_Variation_Synchrony.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad956d"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad956e"
+    },
+    {
+      "$oid": "604102db70800c2694ad956f"
+    },
+    {
+      "$oid": "604102db70800c2694ad9570"
+    },
+    {
+      "$oid": "604102db70800c2694ad9571"
+    },
+    {
+      "$oid": "604102db70800c2694ad9572"
+    }
+  ],
+  "level": 1,
+  "name": "Variation",
+  "iconURL": "/icons/Motion_Variation.PNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604102db70800c2694ad956c"
+  },
+  "subeffects": [
+    {
+      "$oid": "604102db70800c2694ad956d"
+    },
+    {
+      "$oid": "604102db70800c2694ad9573"
+    }
+  ],
+  "level": 0,
+  "name": "Motion",
+  "iconURL": "/icons/Motion.PNG",
+  "__v": 0
+}]

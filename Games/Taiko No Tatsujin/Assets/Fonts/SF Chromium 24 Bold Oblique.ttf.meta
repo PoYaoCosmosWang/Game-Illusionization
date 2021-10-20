@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 46e4c94c77e6f427bb221ef0605c28f2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Chromium 24
+  fontNames:
+  - SF Chromium 24
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1570fea095c1e416c9261511275962ff, type: 3}
+  - {fileID: 12800000, guid: c1f9a3831fd364034a9922e40df9a840, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

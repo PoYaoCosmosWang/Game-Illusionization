@@ -1,0 +1,24 @@
+#README
+## function
+*able to add the zöllner illusion to the gameObject chosen by user 
+*able to modify the parameters of the stripes to adjust the strength of the illusion.
+	* parameter : length, density, width, angle
+	* reference : Oyama, T. Determinants of the Zöllner illusion. Psychol. Res 37, 261–280 (1975). https://doi.org/10.1007/BF00309038 
+
+## explain
+### DemoScene
+A zollnerpackage and a Sample Object is already in the scene. The Sample Object is used as the default target of the 'zollnerpackage'.
+*What user can do in the 'zollnerpackage': 
+	*change the target object 
+	*modify the parameters
+	*generate the stripes as the childobject to the duplicate target (written in Editor/stripeGenerateEditor.cs)
+		*stripes are the clone of lines (prefab) in Scene/Resources/
+
+*What user can see
+	*the immediate stripes demo generate by Gizmos (written in Scripts/stripeGenerate.cs)
+
+### Scripts/fall_animate.cs
+* will gradually fade off the child objects when any collision happens
+
+
+

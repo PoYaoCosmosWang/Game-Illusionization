@@ -1,0 +1,4 @@
+1. player can use curser to determined the direction of white ball
+2. white ball has direction indicator on the opposite side of curser
+3. the direction indicator will hit the stop layer of object
+4. GameManager will 

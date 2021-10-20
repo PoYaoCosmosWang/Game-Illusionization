@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+
+
+  .site-layout-sub-header-background {
+    background: #fff;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+
+.item-title:hover
+{
+  color: #9BB4E3;
+
+}
+.ant-tree-switcher.ant-tree-switcher-noop
+{
+  visibility: hidden;
+}

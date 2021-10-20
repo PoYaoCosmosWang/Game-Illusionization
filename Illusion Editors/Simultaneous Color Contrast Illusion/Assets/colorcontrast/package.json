@@ -1,0 +1,8 @@
+{
+  "name": "com.illusiongame.colorcontrast",
+  "version": "1.0.0",
+  "displayName": "Color Contrast",
+  "description": "This is a package that helps you generate results of simultaneous color contrast, which you may use to integrate the illusion into your games.",
+  "unity": "2019.4",
+  "type": "tool"
+}
