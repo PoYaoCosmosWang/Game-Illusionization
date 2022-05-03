@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 3e7eeb3740d26a7499514546c1ad7673
+timeCreated: 1453851346
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cable
+    100002: //RootNode
+    100004: Dinam01_low
+    100006: Dinam02_low
+    100008: Dinam03_low
+    100010: Dinam04_low
+    100012: Dinam05_low
+    100014: Dinam06_low
+    100016: mzDetonator_low
+    100018: PbcBoard
+    100020: PMidStrap1_low
+    100022: PMidStrap2_low
+    100024: PstrapBd01_low
+    100026: PstrapBd02_low
+    400000: cable
+    400002: //RootNode
+    400004: Dinam01_low
+    400006: Dinam02_low
+    400008: Dinam03_low
+    400010: Dinam04_low
+    400012: Dinam05_low
+    400014: Dinam06_low
+    400016: mzDetonator_low
+    400018: PbcBoard
+    400020: PMidStrap1_low
+    400022: PMidStrap2_low
+    400024: PstrapBd01_low
+    400026: PstrapBd02_low
+    2300000: cable
+    2300002: Dinam01_low
+    2300004: Dinam02_low
+    2300006: Dinam03_low
+    2300008: Dinam04_low
+    2300010: Dinam05_low
+    2300012: Dinam06_low
+    2300014: mzDetonator_low
+    2300016: PbcBoard
+    2300018: PMidStrap1_low
+    2300020: PMidStrap2_low
+    2300022: PstrapBd01_low
+    2300024: PstrapBd02_low
+    3300000: cable
+    3300002: Dinam01_low
+    3300004: Dinam02_low
+    3300006: Dinam03_low
+    3300008: Dinam04_low
+    3300010: Dinam05_low
+    3300012: Dinam06_low
+    3300014: mzDetonator_low
+    3300016: PbcBoard
+    3300018: PMidStrap1_low
+    3300020: PMidStrap2_low
+    3300022: PstrapBd01_low
+    3300024: PstrapBd02_low
+    4300000: mzDetonator_low
+    4300002: Dinam06_low
+    4300004: Dinam01_low
+    4300006: Dinam05_low
+    4300008: Dinam04_low
+    4300010: Dinam03_low
+    4300012: Dinam02_low
+    4300014: cable
+    4300016: PstrapBd01_low
+    4300018: PMidStrap1_low
+    4300020: PMidStrap2_low
+    4300022: PstrapBd02_low
+    4300024: PbcBoard
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
